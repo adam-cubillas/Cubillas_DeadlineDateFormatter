@@ -1,4 +1,4 @@
-#Version 2!
+#Version 2
 import datetime
 import calendar
 
